@@ -104,7 +104,3 @@
             getWebhookInfoApi
             setWebhook
 ```
-
-# Gruppo Telegram
-
-[Entra](https://t.me/joinchat/AYMfl0mfCUqPCjGcDJXl6Q)
